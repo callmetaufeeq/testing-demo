@@ -48,7 +48,7 @@
         <repository>
             <id>github</id>
             <name>maven-project3</name>
-            <url></url>
+            <url>https://maven.pkg.github.com/callmetaufeeq/testing-demo</url>
         </repository>
     </distributionManagement>
 </project>
